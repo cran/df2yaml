@@ -1,0 +1,17 @@
+613e55d60ad789de0bbe03c7da2586eb *DESCRIPTION
+11b5a7ccd48b951bfa7dbf2f8c493eb3 *LICENSE
+fd14c4fb159be967065fd5e5a61d7983 *NAMESPACE
+cc85016c4c488cd642a4a78692a2fe5a *NEWS.md
+6cfb41401c1a4d54cb44d7fb86709ae7 *R/df2yaml.R
+6c533ee93dddd62efa9ebb094fffc9ef *R/utils.R
+0ce20a7f8e169eec2574423dc3c32f86 *README.md
+0ee8c5bca981eab0beeedb0629c31474 *build/vignette.rds
+d31e4b14f721673499489085ff47f6c5 *inst/doc/df2yaml.R
+bb81eafc3a751c81fa87f474d3224f01 *inst/doc/df2yaml.Rmd
+1d7d9ff21b869b4a76b72b7c0ec8730e *inst/doc/df2yaml.html
+215a07484ed868c7af6bbc04565b6218 *inst/extdata/df2yaml_l1.txt
+f61ba02c41bd4fcf2f26d9f0cd5893a3 *inst/extdata/df2yaml_l3.txt
+f14163dc40456cd0c3f965f93cdd2a20 *man/df2yaml.Rd
+873d38cafb49d88433e4e3cf0f3882f3 *man/df2yaml2.Rd
+870d22c65e5a5b33f6a5cacc77e64f78 *man/figures/df2yaml.png
+bb81eafc3a751c81fa87f474d3224f01 *vignettes/df2yaml.Rmd
